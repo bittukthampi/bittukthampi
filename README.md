@@ -23,10 +23,19 @@ and drafting workflows, with a focus on high-accuracy spatial data delivery.
 - GIS Mapping & Spatial Analysis
 
 ## 🧪 Project Experience
-- Powerline LiDAR Mapping & Flythrough Creation  
-- UAV & SLAM LiDAR Point Cloud Processing  
-- Orthophoto & Dense Point Cloud Generation  
-- Static RTK GNSS Processing using CORS Data  
+- UAV LiDAR Survey for Airport Project  
+  - Static base GNSS data used for accurate georeferencing  
+  - LiDAR point cloud generation and classification  
+  - DTM and DSM creation  
+  - Aerial image processing and orthophoto generation  
+
+- UAV LiDAR Mapping for Mining Projects  
+  - High-density LiDAR point cloud generation  
+  - Cut & fill and stockpile volume analysis  
+  - Terrain and slope analysis using DTM/DSM  
+
+- UAV, SLAM & Mobile LiDAR Data Processing (DTM / DSM Generation)  
+- Powerline LiDAR Mapping  
 - Topographic & Infrastructure Surveys  
 
 ## 📜 Certifications & Courses
